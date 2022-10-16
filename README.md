@@ -11,13 +11,13 @@
 
 # Bem-vindo! 👋 <a name="id01"></a>
 
-**To Do List.**
+**To Do List 📝**
 
 Criação de um To Do List utilizando HTML, CSS & JavaScript.
 
 # 🚀 Proposta <a name="id02"></a>
 
-Esse projeto foi desenvolvido com o objetivo de melhorar a produtividade e organização diaria.
+Esse projeto foi desenvolvido com o objetivo de melhorar a produtividade e organização diária.
 
 Proposto pelo [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=HSssE1PRQcA&ab_channel=MatheusBattisti-HoradeCodar) no YouTube e recriado com meus conhecimentos em UI Design.
 
