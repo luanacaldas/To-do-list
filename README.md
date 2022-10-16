@@ -55,11 +55,11 @@ Assuntos estudados neste projeto:
 
 <br />
 
-## :desktop_computer: Desktop design
+## :desktop_computer: Preview Design
 
 ![Preview](./img/Interface1.png)
 
-## :iphone: Mobile design
+## :desktop_computer: Preview Design com Tasks
 
 ![Preview com tasks](./img/Tasks.png)
 
