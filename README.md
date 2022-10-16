@@ -29,13 +29,16 @@ Proposto pelo [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v
 
 Os principais pontos da aplicação são:
 
-- Adicionar novas tasks e remover as que já estão incluídas;
+-  Alterar o status da task entre pendente e completo clicando no checkbox;
+
+-  Adicionar novas tasks e remover as que já estão incluídas;
 
 - Editar nome da tarefa;
 
-Assuntos estudados neste projeto:
-
 - LocalStorage para guardar as tarefas;
+
+
+Assuntos estudados neste projeto:
 
 - Selecionar elemento no JS;
 
@@ -69,7 +72,7 @@ Assuntos estudados neste projeto:
 
 <br />
 
-- Clique no link para acessar a página: https://lively-kangaroo-a1eaa7.netlify.app/
+- Clique no link para acessar a página: https://to-do-list-luana-valim.netlify.app/
 
 <br />
 
